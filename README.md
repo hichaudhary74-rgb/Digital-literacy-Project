@@ -24,14 +24,14 @@ digital-literacy-project/
 │   └── Screenshot3.png  
 │  
 ├── task-2-portfolio/  
-│   ├── github-profile.png  
-│   ├── kaggle-profile.png  
-│   └── linkedin-profile.png  
+│   ├── github.png  
+│   ├── kaggle.png  
+│   └── linkedin.png  
 │  
 ├── task-3-platforms/  
 │   ├── coding-problem.png  
 │   ├── google-form.png  
-│   └── responses-sheet.png  
+│   └── respons.png  
 │  
 ├── task-4-email-etiquette/  
 │   ├── email1.txt  
